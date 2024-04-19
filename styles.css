@@ -1,0 +1,190 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+@import url('https://fonts.cdnfonts.com/css/droid-sans-2');
+@import url('https://fonts.cdnfonts.com/css/droid-serif-2');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+.list{
+    display:flex;
+    justify-content: center;
+    margin-bottom: 1%;
+    padding-bottom: 3%;
+}
+ul {
+    margin:5% 0 0 0 ;
+}
+#imagelogo{
+    padding-top: 20px;
+    width: 100px;
+    height: 100px;
+    padding-right:100px;
+    font-family:Oswald;
+    display:flex;
+    justify-content: center;
+}
+header{
+    background:url("asset_maquetteintro/assets/misc/grille.png");
+}
+.menu{
+    padding:0 1% 0 0; 
+}
+.Hotel{
+    border-bottom: 5px solid #f76900;
+}
+.num1{
+    font-family:Oswald;
+    padding-left: 20%;
+    margin-top: 9%;
+}
+.restaurant{
+    border-bottom: 5px solid #fcd04a;
+}
+.num2{
+    font-family:Oswald;
+    padding-left: 25%;
+    margin-top: 4%;
+}
+.services{
+    border-bottom: 5px solid #5ee965;
+}
+.num3{
+    font-family:Oswald;
+    padding-left: 35%;
+    margin-top: 13%;
+}
+.activites{
+    border-bottom: 5px solid #654afc;
+}
+.num4{
+    font-family:Oswald;
+    padding-left:28%;
+    margin-top: 9%;
+}
+.plus{
+    border-bottom: 5px solid #c078d0;
+}
+.num5{
+    font-family:Oswald;
+    padding-left: 25%;
+    margin-top: 5%;
+}
+.Video{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display:flex;
+    justify-content: center;
+}
+li{
+font-family:Droid sans;
+}
+.Titre{
+    background:url("asset_maquetteintro/assets/misc/grille.png");
+    padding: 20px;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    display:flex;
+    justify-content: center;
+    color: rgb(129, 123, 123);
+    font-size: 120%;
+    font-style: italic;
+}
+.Imagegolf{
+    margin-top: 50px;
+    display:flex;
+    flex-direction: column;
+    width: 250px;
+    border: 1px solid rgb(167, 159, 159);
+    height: 45%;
+}
+.Lestitres{
+    color:#f38506;
+    font-weight:400;
+    font-family:"Oswald";
+    margin-top:4%;
+    margin-bottom: 2%;
+}
+h6{
+    color:gray;
+    font-style: italic;
+    margin:0 0 3% 0;
+}
+.Lestexts{
+    color:rgb(85, 85, 85);
+    margin:0;
+    font-family: "droid serif";
+    font-weight: 200;
+}
+#Leplacement{
+    display:flex;
+    justify-content: center; 
+    margin-bottom: 1%;
+    margin-top: 1%;
+}
+.AccrobEtFast{
+    margin-top: 50px;
+    display:flex;
+    flex-direction: column;
+    width: 250px;
+    padding-left:50px;
+    padding-right:50px;
+}
+.Lescommentaires{
+    margin-top: 2%;
+    width: 600px;
+}
+.LesaccroImages img {
+    margin: 2%;
+    border: 1px solid rgb(207, 206, 206);
+    padding:5px;
+    box-shadow: 1px 1px 1px dimgrey;
+}
+.Contact{
+    margin-top: 1%;
+    margin-bottom:1%;
+    display:flex;
+    justify-content: center;
+    background:url("asset_maquetteintro/assets/misc/grille.png");
+}
+.ParagraContact{
+    padding:0;
+    width:15%;
+    display:flex;
+    flex-direction:column;
+    padding: 0 1%;
+    color:gray
+}
+.Bordures{
+    border-top: 1px solid rgb(207, 206, 206);
+    border-bottom: 1px solid rgb(207, 206, 206);
+}
+h3{
+    font-family: Oswald;
+    padding-bottom: 5%;
+    width: 100%;
+    color:grey;
+    margin: 10% 0 0 0;
+}
+p{
+    margin:0 0 1% 0;
+    font-family: 'Droid Serif';
+}
+.d-flex{
+    display:flex;
+}
+.padding{
+    margin-left: 15%;
+}
+b{
+    font-family: 'Droid Sans';
+}
+#footertext{
+    color:gray;
+    display: flex;
+    padding-left: 20%;
+    font-size: 10px;
+}
+.IconeHorizontal{
+    margin-left: 45%;
+    margin-top:1%;
+    display:flex;
+    height:15%;
+    gap:5px;
+}
